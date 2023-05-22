@@ -1,5 +1,5 @@
 numpy==1.17.4
-requests==2.23.0
+requests==2.31.0
 pandas==0.25.3
 beautifulsoup4==4.9.1
 tabula==1.0.5
